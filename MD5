@@ -1,8 +1,8 @@
-eb47b780eea8459c2319300bce676cfe *DESCRIPTION
+877eabe10fa01f30461c691ec9fa2a90 *DESCRIPTION
 abc62ed4d7c0fd7a3b1203befa295d43 *NAMESPACE
-c520bcf433cc62ec627d79521e2afe34 *R/calculate_actual_predicted.R
+d25670038a5b086faaf79c65e4afa76f *R/calculate_actual_predicted.R
 bd3f973212182801a7ab3ffa2c21a8aa *R/calculate_performance.R
-a11a114d006245c0c33b4c824349a9cf *R/compile_results.R
+ebdcd2d8836a21de48f3565c1981befc *R/compile_results.R
 4de61be312fc870290d150af3ac0be82 *R/create_generic_input_parameters.R
 033cb351c796f443b5e300f6ad109881 *R/create_specific_input_parameters.R
 b443d57609c2c48e745da639509de229 *R/get_outcome_status_at_specific_time.R
